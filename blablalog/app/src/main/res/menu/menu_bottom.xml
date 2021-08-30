@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/tab_blog"
+        android:enabled="true"
+        android:icon="@drawable/icon_bbs"
+        android:title="BBS"
+        app:showAsAction="ifRoom" />
+    <item
+        android:id="@+id/tab_calendar"
+        android:enabled="true"
+        android:icon="@drawable/icon_calendar"
+        android:title="CAL"
+        app:showAsAction="ifRoom"/>
+</menu>

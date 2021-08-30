@@ -1,4 +1,4 @@
-package com.cocokaribou.blabla_log
+package com.cocokaribou.blabla_lee
 
 import org.junit.Test
 
